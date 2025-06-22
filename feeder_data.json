@@ -1,0 +1,115 @@
+{
+  "feeding_history": [
+    {
+      "timestamp": "15 June 2025, 20:08:37",
+      "action": "feed",
+      "distance_before": 24.8
+    },
+    {
+      "timestamp": "15 June 2025, 20:08:42",
+      "action": "feed",
+      "distance_before": 17.4
+    },
+    {
+      "timestamp": "15 June 2025, 20:08:50",
+      "action": "feed",
+      "distance_before": 14.3
+    },
+    {
+      "timestamp": "15 June 2025, 20:08:55",
+      "action": "feed",
+      "distance_before": 10.1
+    },
+    {
+      "timestamp": "15 June 2025, 20:17:47",
+      "action": "feed",
+      "distance_before": 9.1
+    },
+    {
+      "timestamp": "15 June 2025, 20:37:43",
+      "action": "feed",
+      "distance_before": 14.5
+    },
+    {
+      "timestamp": "15 June 2025, 20:37:48",
+      "action": "feed",
+      "distance_before": 12.7
+    },
+    {
+      "timestamp": "15 June 2025, 20:38:22",
+      "action": "feed",
+      "distance_before": 18.1
+    },
+    {
+      "timestamp": "15 June 2025, 20:38:45",
+      "action": "feed",
+      "distance_before": 19.0
+    },
+    {
+      "timestamp": "15 June 2025, 20:38:50",
+      "action": "feed",
+      "distance_before": 22.9
+    },
+    {
+      "timestamp": "15 June 2025, 20:40:49",
+      "action": "feed",
+      "distance_before": 22.7
+    },
+    {
+      "timestamp": "15 June 2025, 20:41:06",
+      "action": "feed",
+      "distance_before": 15.2
+    },
+    {
+      "timestamp": "15 June 2025, 20:41:30",
+      "action": "feed",
+      "distance_before": 20.6
+    },
+    {
+      "timestamp": "15 June 2025, 20:41:52",
+      "action": "feed",
+      "distance_before": 22.6
+    },
+    {
+      "timestamp": "15 June 2025, 20:42:45",
+      "action": "feed",
+      "distance_before": 22.6
+    },
+    {
+      "timestamp": "15 June 2025, 20:43:02",
+      "action": "feed",
+      "distance_before": 15.4
+    },
+    {
+      "timestamp": "15 June 2025, 20:46:38",
+      "action": "feed",
+      "distance_before": 8.5
+    },
+    {
+      "timestamp": "15 June 2025, 20:47:43",
+      "action": "feed",
+      "distance_before": 9.2
+    },
+    {
+      "timestamp": "15 June 2025, 20:48:12",
+      "action": "feed",
+      "distance_before": 9.0
+    },
+    {
+      "timestamp": "15 June 2025, 20:48:51",
+      "action": "feed",
+      "distance_before": 12.9
+    },
+    {
+      "timestamp": "15 June 2025, 20:52:50",
+      "action": "feed",
+      "distance_before": 18.0
+    },
+    {
+      "timestamp": "15 June 2025, 20:55:31",
+      "action": "feed",
+      "distance_before": 22.0
+    }
+  ],
+  "last_feeding_time": "15 Juni 2025 pukul 20.55.31"
+}
